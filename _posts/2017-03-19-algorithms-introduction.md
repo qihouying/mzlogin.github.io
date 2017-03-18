@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 动态规划
-categories: 数据结构和算法
+categories: Algorithm
 description: 希望自己能够善于总结归纳，温故而知新
 keywords: 动态规划，dynamic programming
 ---

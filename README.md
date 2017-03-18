@@ -1,6 +1,6 @@
-# 码志
+# dream
 
-我的个人博客：<http://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<http://qihouying.github.io>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -15,9 +15,9 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](http://mazhuang.org)**
+**[在线预览 &rarr;](http://qihouying.github.io)**
 
-![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](http://qihouying.github.io/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
@@ -50,6 +50,10 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
    pages/about.md 文件内容对应网站的「关于」页面，里面的内容多为个人相关，将它们替换成你自己的信息。
 
+6. 在多说网上进行注册，配置
+
+    按照前五步做完之后，发现评论框不显示，则说明在多说网上没有进行配置，可以参考：https://github.com/iissnan/hexo-theme-next/wiki/%E8%AE%BE%E7%BD%AE%E5%A4%9A%E8%AF%B4-DISQUS
+    
 ## 贴心提示
 
 1. 排版建议遵照一定的规范，推荐 [中文文案排版指北（简体中文版）][1]。
@@ -72,7 +76,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 ## 致谢
 
-本博客外观基于 [DONGChuan](http://dongchuan.github.io) 修改，感谢！
+本博客外观基于 [码志 ](http://mzlogin.github.io) 修改，感谢！
 
 [1]: https://github.com/mzlogin/chinese-copywriting-guidelines
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
