@@ -4,23 +4,23 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: dream
+subtitle: "技术改变人生"
+description: "戚后英的个人博客"
+keywords: 戚后英, dream
 favicon: /favicon.ico
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: Sogou, Inc.
-organization_url: https://www.sogou.com
+author: Houying Qi
+organization: meituan, Inc.
+organization_url: http://bj.meituan.com/
 location: Beijing, China
-email: chumpma@gmail.com
+email: dream_0920@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -96,8 +96,8 @@ twitter_username: mzlogin
 comments_provider: duoshuo
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: mazhuang
-disqus_username: mzlogin
+duoshuo_username: qihouying
+disqus_username: dreamlogin
 # 在使用一个时可点击显示另一个
 lazy_load_another : true
 
