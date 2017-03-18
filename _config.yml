@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: https://qihouying.github.io/
 date_format: "ordinal"
 title: dream
 subtitle: "技术改变人生"
@@ -77,7 +77,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: qihouying/qihouying.github.io
 
 # ---------------- #
 #      Socials     #
