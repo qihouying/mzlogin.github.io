@@ -21,7 +21,7 @@ permalink: /about/
 
 * GitHub：[@dream](https://github.com/qihouying)
 * 掘金：[@dream](https://juejin.im/user/58ccab4a1b69e6006b77dc79)
-* LinkedIn：[@mazhuang](https://www.linkedin.com/in/qihouying)
+* LinkedIn：[@dream](https://www.linkedin.com/in/qihouying)
 * 博客：[{{ site.title }}]({{ site.url }})
 * 微博: [@dream](http://weibo.com/qihouying)
 * 知乎: [@dream](http://www.zhihu.com/people/qihouying)

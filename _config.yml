@@ -82,12 +82,12 @@ repository: qihouying/qihouying.github.io
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+github_username: qihouying
+douban_username: qihouying
+facebook_username: qihouying
+weibo_username: qihouying
+zhihu_username: qihouying
+twitter_username: qihouying
 
 # ---------------- #
 #      Comments    #
@@ -97,7 +97,7 @@ comments_provider: duoshuo
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
 duoshuo_username: qihouying
-disqus_username: dreamlogin
+disqus_username: qihouying
 # 在使用一个时可点击显示另一个
 lazy_load_another : true
 
