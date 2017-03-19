@@ -5,7 +5,7 @@ baseurl:
 url: https://qihouying.github.io/
 date_format: "ordinal"
 title: dream
-subtitle: "技术改变人生"
+subtitle: "技术改变世界"
 description: "戚后英的个人博客"
 keywords: 戚后英, dream
 favicon: /favicon.ico
@@ -111,5 +111,3 @@ google:
 #      Datas       #
 # ---------------- #
 skill_software_keywords: [Java, C++, Python, Design Patterns]
-skill_mobile_app_keywords: [Android, Reverse Engineering]
-skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
