@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-# dream
-
-我的个人博客：<http://qihouying.github.io>，欢迎 Star 和 Fork。
-=======
 # 码志
 
-我的个人博客：<http://mazhuang.org>，欢迎 Star 和 Fork。
->>>>>>> 9fbfea09ab651f4fe6fde86083b3c9795e92a622
+我的个人博客：<http://qihouying.github.io>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -21,15 +15,8 @@
 
 ## 效果预览
 
-<<<<<<< HEAD
 **[在线预览 &rarr;](http://qihouying.github.io)**
 
-![screenshot home](http://qihouying.github.io/assets/images/screenshots/home.png)
-=======
-**[在线预览 &rarr;](http://mazhuang.org)**
-
-![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
->>>>>>> 9fbfea09ab651f4fe6fde86083b3c9795e92a622
 
 ## Fork 指南
 
@@ -62,13 +49,9 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
    pages/about.md 文件内容对应网站的「关于」页面，里面的内容多为个人相关，将它们替换成你自己的信息。
 
-<<<<<<< HEAD
-6. 在多说网上进行注册，配置
-
-    按照前五步做完之后，发现评论框不显示，则说明在多说网上没有进行配置，可以参考：https://github.com/iissnan/hexo-theme-next/wiki/%E8%AE%BE%E7%BD%AE%E5%A4%9A%E8%AF%B4-DISQUS
+6. 在多说网上配置
     
-=======
->>>>>>> 9fbfea09ab651f4fe6fde86083b3c9795e92a622
+    按照1-5完成后，发现评论框不显示，说明你在多说网上没有进行配置，可以参考：https://github.com/iissnan/hexo-theme-next/wiki/%E8%AE%BE%E7%BD%AE%E5%A4%9A%E8%AF%B4-DISQUS
 ## 贴心提示
 
 1. 排版建议遵照一定的规范，推荐 [中文文案排版指北（简体中文版）][1]。
@@ -91,11 +74,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 ## 致谢
 
-<<<<<<< HEAD
-本博客外观基于 [码志 ](http://mzlogin.github.io) 修改，感谢！
-=======
 本博客外观基于 [DONGChuan](http://dongchuan.github.io) 修改，感谢！
->>>>>>> 9fbfea09ab651f4fe6fde86083b3c9795e92a622
 
 [1]: https://github.com/mzlogin/chinese-copywriting-guidelines
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
