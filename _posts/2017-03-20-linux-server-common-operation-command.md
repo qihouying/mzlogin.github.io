@@ -95,11 +95,13 @@ linux操作系统1024以下的端口只能由root用户启动，即需要先运�
 
 <h2 id="13"> 13. 常用的linux服务器性能查看命令有哪些？</h2>
          命令名称                                                说明
-          top       进程监控命令，用来监控系统的整体性能。可以显示系统负载，进程，cpu，内存，分页等信息，常用shift+m和shift+p来按memory和cpu使用对进程进行排序。      
+           top       进程监控命令，用来监控系统的整体性能。可以显示系统负载，进程，cpu，内存，分页等信息，常用shift+m和shift+p来按memory和cpu使用对进程进行排序。      
 
-          vmstat    系统监控命令，重点侧重于虚拟内存，也可以监控cpu，进程，内存分页以及IO的状态信息例如，vmstat 3 10，每隔3秒输出结果，执行10次。                                                           df        用来检查系统的磁盘空间占用状况。例如：df -m，以MB为单位展现磁盘使用状况。                                                                                                  
+          vmstat    系统监控命令，重点侧重于虚拟内存，也可以监控cpu，进程，内存分页以及IO的状态信息例如，vmstat 3 10，每隔3秒输出结果，执行10次。                    
+           
+           df        用来检查系统的磁盘空间占用状况。例如：df -m，以MB为单位展现磁盘使用状况。                                                                                                  
 
-          ps        进程查看命令，可以用来显示进程的详细信息。常用命令参数组合为，ps -ef，ps aux，推荐使用ps -A -o来自定义输出字段。 例如：ps -A -o pid,stat,uname,%cpu,%mem,rss,args,lstart,etime\ | sort -k6,6 -rn，按所列字段输出并以第六个字段进行排序; ps -A -o comm \ | sort -k1 \ | uniq -c\ | sort -k1 -rn\ | head，列出运行实例最多的进程。
+           ps        进程查看命令，可以用来显示进程的详细信息。常用命令参数组合为，ps -ef，ps aux，推荐使用ps -A -o来自定义输出字段。 例如：ps -A -o pid,stat,uname,%cpu,%mem,rss,args,lstart,etime\ | sort -k6,6 -rn，按所列字段输出并以第六个字段进行排序; ps -A -o comm \ | sort -k1 \ | uniq -c\ | sort -k1 -rn\ | head，列出运行实例最多的进程。
 
 其他常用的命令和文件，free -m，du，uptime，w，/proc/stat，/proc/cpuinfo，/proc/meminfo。 
 
