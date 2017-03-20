@@ -8,4 +8,6 @@ keywords: keyword1, keyword2
 
 todo
 
-参考网站：https://jekyllrb.com/docs/troubleshooting/#installation-problems
+参考网站：[mac用jekyll搭建blog常见问题](https://jekyllrb.com/docs/troubleshooting/#installation-problems)
+
+[jekyll常用模版](https://github.com/jekyll/jekyll/wiki/Sites)
