@@ -53,7 +53,7 @@ Load是用来度量服务器工作量的大小，即计算机cpu任务执行队�
 
 <h2 id="5"> 5. 如何查看单个进程占用的内存大小？</h2>
 
-可以使用top -p PID，pmap -x PID，ps aux|grep PID命令，也可以通过/proc/$process_id（进程的PID）/status文件查看，例如/proc/7159/status文件。 
+可以使用top -p PID，pmap -x PID，ps aux\|grep PID命令，也可以通过/proc/$process_id（进程的PID）/status文件查看，例如/proc/7159/status文件。 
 
 <h2 id="6"> 6. 无法从linux服务器A登录到服务器B怎么办？</h2>
 
