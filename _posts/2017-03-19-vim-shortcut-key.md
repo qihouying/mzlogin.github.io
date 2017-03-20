@@ -134,7 +134,7 @@ keywords: vim快捷键,vim shortcut key, vim常用快捷键
 
 > :%g/^\s*$/d
 
-### 除以空格或tab开头到結尾的空行
+### 删除以空格或tab开头到結尾的空行
 
 > :%g/^[ |\t]*$/d
 
