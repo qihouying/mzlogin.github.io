@@ -39,4 +39,4 @@ keywords: mac vim乱码, mac乱码, vim乱码
 
 > 配置完毕，重启mac终端即可。 
 
-> 参考文章：https://www.vat58.com/mac%E4%B8%8Bvim%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E5%8F%8Assh%E8%BF%9C%E7%A8%8B%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/
+> 参考文章: [mac下vim中文乱码](https://www.vat58.com/mac%E4%B8%8Bvim%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E5%8F%8Assh%E8%BF%9C%E7%A8%8B%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/)
