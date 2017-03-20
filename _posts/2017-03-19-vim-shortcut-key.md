@@ -1,7 +1,7 @@
 ---
 layout: post
 title: vim常用快捷键
-categories: Vim
+categories: vim
 description: 使用vim常用快捷键
 keywords: vim快捷键,vim shortcut key, vim常用快捷键
 ---
