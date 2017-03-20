@@ -70,7 +70,7 @@ Load是用来度量服务器工作量的大小，即计算机cpu任务执行队�
 
 <h2 id="8"> 8. 如何查看服务器进程信息？</h2>
 
-可以使用ps auxww|grep PID，ps -ef，lsof -p PID，top -p PID命令查看。 
+可以使用ps auxww\|grep PID，ps -ef，lsof -p PID，top -p PID命令查看。 
 
 <h2 id="9"> 9. 如何杀死进程？</h2>
 
@@ -79,7 +79,7 @@ Load是用来度量服务器工作量的大小，即计算机cpu任务执行队�
 
 <h2 id="10"> 10. 如何查找僵尸进程？</h2>
 
-可以使用top命令查看僵尸进程（zombie）的总数，使用ps -ef | grep defunct | grep -v grep查找具体僵尸进程的信息。 
+可以使用top命令查看僵尸进程（zombie）的总数，使用ps -ef \| grep defunct \| grep -v grep查找具体僵尸进程的信息。 
 
 <h2 id="11"> 11. 如何在内网服务器间传输数据？</h2>
 
@@ -168,7 +168,7 @@ Linux内核启动顺序为：
 可以首先通过df命令查看磁盘分区使用情况，比如df -m；
 然后：
 
-通过du命令查看具体文件夹的大小，比如du -sh ./*，du -h --max-depth=1|head -10；
+通过du命令查看具体文件夹的大小，比如du -sh ./*，du -h --max-depth=1\|head -10；
 
 使用ls命令列出文件以及大小，比如ls -lSh；
 
@@ -217,4 +217,4 @@ uname -a，cat /proc/version，cat /etc/issue
 
 解决方法：
 
-使用root权限执行 lsof |grep deleted ，查看正在使用被删除文件的进程的PID，通过命令 kill -9 PID 杀掉对应的进程即可。
+使用root权限执行 lsof \|grep deleted ，查看正在使用被删除文件的进程的PID，通过命令 kill -9 PID 杀掉对应的进程即可。
