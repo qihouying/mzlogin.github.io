@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 构造器初始化
-categories: thinking in java
+categories: java
 description: 学习《Java编程思想》第五部分《初始化与清理》的笔记。
 keywords: 构造器初始化
 ---
@@ -15,4 +15,4 @@ keywords: 构造器初始化
 
 
 ### 书中示例的 Java 实现源码
-[单例模式实现](https://github.com/qihouying/design-pattern/tree/master/src/main/java/com/design/pattern/singleton)
+[构造器初始化相关验证代码](https://github.com/qihouying/thinking-in-java/tree/master/src/main/java/com/dream/initialization)
