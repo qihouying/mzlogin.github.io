@@ -33,5 +33,3 @@ keywords: 设计模式，工厂模式
 
 [抽象工厂模式实现](https://github.com/qihouying/design-pattern/tree/master/src/main/java/com/design/pattern/abstractFacotry)
 
-### 书中示例的类图
-
