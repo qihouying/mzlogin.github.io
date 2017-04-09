@@ -27,12 +27,16 @@ keywords: 设计模式，策略模式
 4.不希望客户端知道复杂的，与算法相关的数据结构，在具体策略类中封装算法和相关的数据结构，来提高算法的保密性与安全性。
 
 ## 类图表示
-<img src="/images/posts/designpattern/StrategyPattern.png" width="80%" alt="Strategy  Pattern UML Class Diagram"/>
+<img src="/images/posts/designpattern/StrategyPattern.png" width="80%" alt="Strategy Pattern UML Class Diagram"/>
 
 ### 角色说明
 * 环境角色（Context）：持有一个Strategy的引用。
 * 抽象策略角色（Strategy）：给出所有的具体策略类所需的接口。是抽象角色，通常为接口。
 * 具体策略角色（ConcreteStrategy）：包装了相关的算法或行为。
 
-### 书中示例的 Java 实现源码
+### 书中示例
+#### 示例类图表示如下
+<img src="/images/posts/designpattern/StrategyPatternDuck.png" width="80%" alt="Strategy Pattern Duck UML Class Diagram"/>
+
+#### java源代码实现
 [策略模式实现](https://github.com/qihouying/design-pattern/tree/master/src/main/java/com/design/pattern/strategy)
