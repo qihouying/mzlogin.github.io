@@ -43,5 +43,4 @@ keywords: 设计模式，观察者模式
 
 [观察者模式实现](https://github.com/qihouying/design-pattern/tree/master/src/main/java/com/design/pattern/observe)
 
-### 书中示例的类图
 
